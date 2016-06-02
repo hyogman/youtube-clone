@@ -1,5 +1,6 @@
 Youtube Clone
 Inspired by Udemy course by Stephen Girdle. 
+Note that actions and reducer folders are not fleshed out for this project. 
 
 1. Clone to Desktop
 2. cd into project
